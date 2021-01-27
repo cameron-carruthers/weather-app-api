@@ -11,6 +11,7 @@ To run this repo, you will need to install dependencies and run appropriate scri
 - Node
 - npm
 - Redis
+- API key from https://openweathermap.org/.  Add a .env file in the root directory with the following words: API_KEY={your_api_key_here}
 
 ## Development
 
